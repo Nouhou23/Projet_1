@@ -40,7 +40,7 @@ Cette section comporte deux modules :
 
 
 ### 4. **Muti_labels_train_vae**
-Dans cette partie, les modules conçus ont été intégrés et entraînés ensemble afin de maximiser la performance du modèle multi-cibles.
+Dans cette partie, tous les modules conçus ont été importés et entraînés.
 
 ## Résultats
 Les conclusions principales de ce projet sont les suivantes :
