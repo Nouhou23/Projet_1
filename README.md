@@ -2,7 +2,7 @@
 # **Auto-Encodeurs Variationnels Désenchevêtrés (VAEs)**
 
 ## Contexte
-Ce projet a été réalisé dans le cadre d'un stage de Master 1 en Intelligence des Données de Santé au sein du laboratoire ICUBE à Strasbourg. Le sujet du stage, intitulé **« L’intérêt des auto-encodeurs variationnels désenchevêtrés (VAEs) dans la génération de données synthétiques pour l’inférence causale »**, a été proposé et encadré par le professeur Julien Godet. L'objectif principal était de générer des données contrefactuelles à l'aide de VAEs et d'explorer leur utilité dans le cadre de l'inférence causale.Ce thème avait déjà été abordé par un étudiant de Master 2, Paul Mangel, qui avait travaillé sur un auto-encodeur variationnel désenchevêtré (VAE) entraîné sur une seule cible.
+Ce projet a été réalisé dans le cadre d'un stage de Master 1 en Intelligence des Données de Santé au sein du laboratoire ICUBE à Strasbourg. Le sujet du stage, intitulé **« L’intérêt des auto-encodeurs variationnels désenchevêtrés (VAEs) dans la génération de données synthétiques pour l’inférence causale »**, a été proposé et encadré par le professeur Julien Godet. L'objectif principal était de générer des données contrefactuelles à l'aide de VAEs et d'explorer leur utilité dans le cadre de l'inférence causale. Ce thème avait déjà été abordé par un étudiant de Master 2, Paul Mangel, qui avait travaillé sur un auto-encodeur variationnel désenchevêtré (VAE) entraîné sur une seule cible.
 
 ## Objectif
 Le projet vise à :
